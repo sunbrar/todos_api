@@ -15,4 +15,5 @@ Skills Used
 6. CSS
 7. HTML
 
-This application is not currently being hosted.
+This application is not currently being hosted. Please view Running Example.png to see the application. To host this
+this application, individual will have to setup a mongo instance.
